@@ -13,7 +13,7 @@ O objetivo do projeto é exercitar todo conhecimento adquirido no módulo **Cont
 - Se você passar os números 12 e 30, logo teremos uma interação (for) com 18 ocorrências (30-12 = 18) para imprimir os números, exemplo: "*Imprimindo o número 1", "Imprimindo o número 2*" e assim por diante.
 
 
-- Se o primeiro parâmetro for **MAIOR** que o segundo parâmetro, você deverá lançar a exceção customizada chamada de **ParametrosInvalidosException** com a segunda mensagem: "*O segundo parâmetro deve ser maior que o primeiro*"
+- Se o primeiro parâmetro for **MAIOR** ou **IGUAL** do que o segundo parâmetro, você deverá lançar a exceção customizada chamada de **ParametrosInvalidosException** com a segunda mensagem: "*O segundo parâmetro deve ser maior que o primeiro*"
 
 
 ## Minha experiência com o projeto
