@@ -17,7 +17,7 @@ O objetivo do projeto é exercitar todo conhecimento adquirido no módulo **Cont
 
 
 ## Minha experiência com o projeto
-Foi um desafio que realmente me colocou para pensar, e me fez aplicar tudo que eu já tinha visto até o momento do desafio, usando de controle de fluxo, excções persionalizadas e a própria lógica de negócio.
+Foi um desafio que realmente me colocou para pensar, e me fez aplicar tudo que eu já tinha visto até o momento do desafio, usando de controle de fluxo, exceções persionalizadas e a própria lógica de negócio.
 
 Está sendo muito bom esse bootcamp, que venham os próximos desafios!
 
